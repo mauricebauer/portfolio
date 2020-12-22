@@ -19,11 +19,13 @@ languages:
       imageTitle: "Ein Bild von mir"
       imageWidth: 200
       imageHeight: 200
-      # buttons:
-      #   - name: Posts
-      #     url: posts
-      #   - name: Kontakt
-      #     url: contact/
+      buttons:
+        - name: "Über mich"
+          url: "about-me/"
+        - name: "Projekte"
+          url: "projects/"
+        - name: "Kontakt"
+          url: "contact/"
     menu:
       main:
         - name: "Suche"
@@ -43,11 +45,13 @@ languages:
       imageTitle: "A picture of me"
       imageWidth: 200
       imageHeight: 200
-      # buttons:
-      #   - name: Posts
-      #     url: posts
-      #   - name: Contact
-      #     url: contact/
+      buttons:
+        - name: "About me"
+          url: "about-me/"
+        - name: "Projects"
+          url: "projects/"
+        - name: "Contact"
+          url: "contact/"
     menu:
       main:
         - name: "Search"
@@ -63,10 +67,10 @@ params:
   author: "Maurice Bauer"
 
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   socialIcons:
     - name: "github"
