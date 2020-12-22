@@ -61,6 +61,7 @@ params:
   comments: false
   defaultTheme: auto
   author: "Maurice Bauer"
+  displayFullLangName: true
 
   assets:
     favicon: "/favicon.ico"
