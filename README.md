@@ -5,7 +5,7 @@
 
 This is my portfolio website to showcase some of my projects and to provide information about me.
 
-This project uses the static page builder [Hugo](https://gohugo.io/) in combination with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod)-Theme.
+This project uses the static page builder [Hugo](https://gohugo.io/) in combination with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod)-Theme and follows the [Git-Workflow](https://www.atlassian.com/de/git/tutorials/comparing-workflows).
 
 ## Contribution
 
