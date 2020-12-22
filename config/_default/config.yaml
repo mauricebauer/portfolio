@@ -12,6 +12,7 @@ languages:
   de:
     languageName: "Deutsch"
     weight: 1
+    dateFormat: "2.1.2006"
     profileMode:
       enabled: true
       subtitle: "Willkommen auf meiner Webseite 👋"
