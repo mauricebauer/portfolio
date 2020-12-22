@@ -1,0 +1,79 @@
+baseURL: "https://mauricebauer.de"
+title: "Maurice Bauer"
+paginate: 5
+theme: "PaperMod"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+defaultContentLanguage: de
+languages:
+  de:
+    languageName: "Deutsch"
+    weight: 1
+    profileMode:
+      enabled: true
+      subtitle: "Willkommen auf meiner Webseite 👋"
+      imageUrl: "/me.jpg"
+      imageTitle: "Ein Bild von mir"
+      imageWidth: 200
+      imageHeight: 200
+      # buttons:
+      #   - name: Posts
+      #     url: posts
+      #   - name: Kontakt
+      #     url: contact/
+    menu:
+      main:
+        - name: "Suche"
+          url: "search/"
+          weight: 5
+        - name: "Impressum"
+          url: "legal-disclosure/"
+          weight: 10
+
+  en:
+    languageName: "English"
+    weight: 2
+    profileMode:
+      enabled: true
+      subtitle: "Welcome to my website 👋"
+      imageUrl: "/me.jpg"
+      imageTitle: "A picture of me"
+      imageWidth: 200
+      imageHeight: 200
+      # buttons:
+      #   - name: Posts
+      #     url: posts
+      #   - name: Contact
+      #     url: contact/
+    menu:
+      main:
+        - name: "Search"
+          url: "search/"
+          weight: 5
+        - name: "Legal disclosure"
+          url: "legal-disclosure/"
+          weight: 10
+
+params:
+  comments: false
+  defaultTheme: auto
+  author: "Maurice Bauer"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/mauricebauer"
+    - name: "instagram"
+      url: "https://www.instagram.com/mauricepbauer"
+    - name: "xing"
+      url: "https://www.xing.com/profile/Maurice_Bauer7"
+    # - name: email
+    #   url: ""
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON" # is necessary for search

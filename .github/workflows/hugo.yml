@@ -1,0 +1,53 @@
+name: Hugo CI
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get Theme
+        run: git submodule update --init --recursive
+
+      - name: Update theme to latest commit
+        run: git submodule update --remote --merge
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      - name: Build
+        run: hugo --minify
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/master' # Only deploy on master
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get Theme
+        run: git submodule update --init --recursive
+
+      - name: Update theme to latest commit
+        run: git submodule update --remote --merge
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deployment to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: mauricebauer.de
