@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurice Bauer</title>
+    <link>https://mauricebauer.de/</link>
+    <description>Recent content on Maurice Bauer</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mauricebauer.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://mauricebauer.de/legal-disclosure/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/legal-disclosure/</guid>
+      <description>Maurice Bauer
+Criesbacher Straße 1
+74676 Niedernhall
+info (-at-) mauricebauer.de
+Disclaimer - rechtliche Hinweise Auskunfts- und Widerrufsrecht Sie haben jederzeit das Recht, sich unentgeltlich und unverzüglich über die zu Ihrer Person erhobenen Daten zu erkundigen. Ebenfalls können Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen persönlichen Daten mit Wirkung für die Zukunft widerrufen. Hierfür wenden Sie sich bitte an den im Impressum angegebenen Diensteanbieter.
+Datenschutz (allgemein) Beim Zugriff auf unsere Webseite werden automatisch allgemeine Informationen (sog.</description>
+    </item>
+    
+    <item>
+      <title>Suche</title>
+      <link>https://mauricebauer.de/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
