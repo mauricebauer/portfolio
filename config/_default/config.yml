@@ -12,18 +12,21 @@ languages:
   de:
     languageName: "Deutsch"
     weight: 1
+    dateFormat: "02.01.2006"
     profileMode:
       enabled: true
       subtitle: "Willkommen auf meiner Webseite 👋"
-      imageUrl: "/me.jpg"
+      imageUrl: "/img/me.jpg"
       imageTitle: "Ein Bild von mir"
       imageWidth: 200
       imageHeight: 200
-      # buttons:
-      #   - name: Posts
-      #     url: posts
-      #   - name: Kontakt
-      #     url: contact/
+      buttons:
+        - name: "Über mich"
+          url: "about-me/"
+        - name: "Projekte"
+          url: "projects/"
+        - name: "Kontakt"
+          url: "contact/"
     menu:
       main:
         - name: "Suche"
@@ -39,15 +42,17 @@ languages:
     profileMode:
       enabled: true
       subtitle: "Welcome to my website 👋"
-      imageUrl: "/me.jpg"
+      imageUrl: "/img/me.jpg"
       imageTitle: "A picture of me"
       imageWidth: 200
       imageHeight: 200
-      # buttons:
-      #   - name: Posts
-      #     url: posts
-      #   - name: Contact
-      #     url: contact/
+      buttons:
+        - name: "About me"
+          url: "about-me/"
+        - name: "Projects"
+          url: "projects/"
+        - name: "Contact"
+          url: "contact/"
     menu:
       main:
         - name: "Search"
@@ -64,10 +69,10 @@ params:
   displayFullLangName: true
 
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   socialIcons:
     - name: "github"
@@ -76,8 +81,8 @@ params:
       url: "https://www.instagram.com/mauricepbauer"
     - name: "xing"
       url: "https://www.xing.com/profile/Maurice_Bauer7"
-    # - name: email
-    #   url: ""
+    - name: email
+      url: "contact/"
 
 outputs:
   home:
