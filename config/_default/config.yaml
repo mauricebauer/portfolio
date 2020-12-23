@@ -12,11 +12,11 @@ languages:
   de:
     languageName: "Deutsch"
     weight: 1
-    dateFormat: "2.1.2006"
+    dateFormat: "02.01.2006"
     profileMode:
       enabled: true
       subtitle: "Willkommen auf meiner Webseite 👋"
-      imageUrl: "/me.jpg"
+      imageUrl: "/img/me.jpg"
       imageTitle: "Ein Bild von mir"
       imageWidth: 200
       imageHeight: 200
@@ -42,7 +42,7 @@ languages:
     profileMode:
       enabled: true
       subtitle: "Welcome to my website 👋"
-      imageUrl: "/me.jpg"
+      imageUrl: "/img/me.jpg"
       imageTitle: "A picture of me"
       imageWidth: 200
       imageHeight: 200
