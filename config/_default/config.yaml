@@ -80,8 +80,8 @@ params:
       url: "https://www.instagram.com/mauricepbauer"
     - name: "xing"
       url: "https://www.xing.com/profile/Maurice_Bauer7"
-    # - name: email
-    #   url: ""
+    - name: email
+      url: "contact/"
 
 outputs:
   home:
