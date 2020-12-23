@@ -29,7 +29,7 @@ Für die Benutzeroberfläche, welche zu Beginn dieser Seite ersichtlich ist, wur
 
 ### Backtracking-Algorithmus
 
-Entgegen der meisten Backtracking-Algorithmen wurde der Lösungsalgorithmus in dieser Applikation nicht rekursiv sondern mithilfe eines Stacks implementiert, um eine manuell schrittweise Lösung des Rätsels zu ermöglichen. Dies macht den Lösungsvorgang durch den Anwender nachvollziehbarer. Die korrekte Funktionsweise des Algorithmus wurde mithilfe von automatisierten Softwaretests validiert.
+Entgegen der meisten Backtracking-Algorithmen wurde der Lösungsalgorithmus in dieser Applikation nicht rekursiv, sondern mithilfe eines Stacks implementiert, um eine manuelle schrittweise Lösung des Rätsels zu ermöglichen. Dies macht den Lösungsvorgang durch den Anwender nachvollziehbarer. Die korrekte Funktionsweise des Algorithmus wurde mithilfe von automatisierten Softwaretests validiert.
 
 ### Softwarequalität und GitHub Actions
 

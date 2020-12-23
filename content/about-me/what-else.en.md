@@ -12,8 +12,6 @@ Life is not only about work. Besides my passion for software development, I also
   I have been a Christian since I was a child and I like to attend the divine services in our congregation on a regular basis. Of course, everyone is invited to join us.
 - 🎼 **Singing**  
   In a church there is usually a choir, logical so far. Accordingly, it was also obvious to me that I would sing there one day. Today, I especially enjoy singing in different choirs, as it is a nice way to practice a passion in a group.
-- 🏠 **Smart-Home**  
-  Making a building as intelligent as possible with software and electronics is awesome for me. Here I can also apply the knowledge I've learned from my mini-job and my university studies to achieve even more living comfort.
 - ✔️ **Productivity**  
   To-do lists, calendars, _kanban_-boards and digitalization are stressful and a nightmare for many people. I am passionate about making my work and personal life as efficient as possible to make the most of the time available.
 - 🌶️ **Eating spicy food**  
