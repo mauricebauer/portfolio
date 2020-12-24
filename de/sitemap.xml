@@ -3,6 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mauricebauer.de/about-me/career/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/about-me/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/about-me/career/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/about-me/school/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/about-me/school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/about-me/school/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/contact/</loc>
+    <lastmod>2020-12-23T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/</loc>
+    <lastmod>2020-12-23T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/about-me/what-else/</loc>
+    <lastmod>2020-12-23T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/about-me/what-else/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/about-me/what-else/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/about-me/</loc>
+    <lastmod>2020-12-23T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/about-me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/github-actions/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/github-actions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/github-actions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/hugo/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/hugo/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauricebauer.de/legal-disclosure/</loc>
     <lastmod>2020-12-22T11:00:00+00:00</lastmod>
     <xhtml:link
@@ -14,6 +134,171 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://mauricebauer.de/legal-disclosure/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/projects/mauricebauer/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/projects/mauricebauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/projects/mauricebauer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/projects/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/</loc>
+    <lastmod>2020-12-22T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/django/</loc>
+    <lastmod>2020-09-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/django/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/django/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/projects/nac-registration/</loc>
+    <lastmod>2020-09-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/projects/nac-registration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/projects/nac-registration/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/java/</loc>
+    <lastmod>2020-04-19T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/java/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/javafx/</loc>
+    <lastmod>2020-04-19T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/javafx/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/javafx/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/projects/norinori/</loc>
+    <lastmod>2020-04-19T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/projects/norinori/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/projects/norinori/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/angular/</loc>
+    <lastmod>2020-01-12T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/angular/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/angular/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/tags/go/</loc>
+    <lastmod>2020-01-12T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/tags/go/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauricebauer.de/projects/strava-light/</loc>
+    <lastmod>2020-01-12T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauricebauer.de/en/projects/strava-light/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mauricebauer.de/projects/strava-light/"
                 />
   </url>
   
@@ -32,16 +317,16 @@
   </url>
   
   <url>
-    <loc>https://mauricebauer.de/</loc>
+    <loc>https://mauricebauer.de/tags/html/css/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauricebauer.de/en/"
+                href="https://mauricebauer.de/en/tags/html/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://mauricebauer.de/"
+                href="https://mauricebauer.de/tags/html/css/"
                 />
   </url>
   
@@ -56,20 +341,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://mauricebauer.de/search/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauricebauer.de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauricebauer.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mauricebauer.de/tags/"
                 />
   </url>
   

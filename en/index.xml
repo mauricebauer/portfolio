@@ -4,7 +4,53 @@
     <title>Maurice Bauer</title>
     <link>https://mauricebauer.de/en/</link>
     <description>Recent content on Maurice Bauer</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mauricebauer.de/en/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Dec 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://mauricebauer.de/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business career</title>
+      <link>https://mauricebauer.de/en/about-me/career/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/about-me/career/</guid>
+      <description>My professional career started very early with a mini-job in my parents&#39; company. However, my career only really began with my first full-time job, the corporate university studies with an industrial company.
+ Mini-job in my parents&#39; company (2015-Today)
+Since I started early to support my parents in their service business, the opportunity arose to earn a little extra pocket money. This first work experience combined different aspects of a job profile for me.</description>
+    </item>
+    
+    <item>
+      <title>School career</title>
+      <link>https://mauricebauer.de/en/about-me/school/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/about-me/school/</guid>
+      <description>Here I describe my school career. Of course, learning doesn&amp;rsquo;t end for me after successfully visiting the three schools. My bachelor degree followed after my high school graduation at the Gewerbliche Schule in Künzelsau.
+ Elementary School in Niedernhall (2005-2009)
+I went to the elementary school in my home town Niedernhall. This prepared me for attending a high school. High school Ganerben Gymnasium Künzelsau (2009-2014)
+I went to the Ganerben Gymnasium from the fifth to the ninth grade.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mauricebauer.de/en/contact/</link>
+      <pubDate>Wed, 23 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/contact/</guid>
+      <description>Hi, I am happy to get in touch with you. You have the following possibilities to contact me:
+ E-Mail: info (-at-) mauricebauer.de
+Will forward the message to my actual email address. Instagram: Instagram also allows personal messages via the profile XING: Personal message on my XING profile Threema: Add Contact to Threema  For confidential information I additionally offer the possibility to communicate encrypted. To do this, simply reach out to me via one of the above options or in person.</description>
+    </item>
+    
+    <item>
+      <title>What else I am doing</title>
+      <link>https://mauricebauer.de/en/about-me/what-else/</link>
+      <pubDate>Wed, 23 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/about-me/what-else/</guid>
+      <description>Life is not only about work. Besides my passion for software development, I also follow other interests:
+ 🏃‍♂️ Running
+I like to go running regularly and also cycling from time to time. My hometown offers beautiful biking and walking trails in the valley to pursue these sports. The annual running event in our valley has already made it possible for me to participate in many 10km races and a half marathon.</description>
+    </item>
+    
     <item>
       <title>Legal disclosure</title>
       <link>https://mauricebauer.de/en/legal-disclosure/</link>
@@ -17,6 +63,42 @@ Criesbacher Straße 1
 info (-at-) mauricebauer.de
  This page is only available in german, because the german law requires this!
  Disclaimer - rechtliche Hinweise Auskunfts- und Widerrufsrecht Sie haben jederzeit das Recht, sich unentgeltlich und unverzüglich über die zu Ihrer Person erhobenen Daten zu erkundigen. Ebenfalls können Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen persönlichen Daten mit Wirkung für die Zukunft widerrufen. Hierfür wenden Sie sich bitte an den im Impressum angegebenen Diensteanbieter.</description>
+    </item>
+    
+    <item>
+      <title>mauricebauer.de</title>
+      <link>https://mauricebauer.de/en/projects/mauricebauer/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/projects/mauricebauer/</guid>
+      <description>A portfolio-website to showcase some projects and to provide some information about me</description>
+    </item>
+    
+    <item>
+      <title>NAC Registration</title>
+      <link>https://mauricebauer.de/en/projects/nac-registration/</link>
+      <pubDate>Mon, 14 Sep 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/projects/nac-registration/</guid>
+      <description>A registration portal to register worship attendees during the corona-pandemic. Developed using Python 3 (Django 3) and Bootstrap 5</description>
+    </item>
+    
+    <item>
+      <title>NoriNori Solver</title>
+      <link>https://mauricebauer.de/en/projects/norinori/</link>
+      <pubDate>Sun, 19 Apr 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/projects/norinori/</guid>
+      <description>A JavaFX-application, to solve NoriNori-puzzles encoded with JSON using backtracking</description>
+    </item>
+    
+    <item>
+      <title>Strava Light</title>
+      <link>https://mauricebauer.de/en/projects/strava-light/</link>
+      <pubDate>Sun, 12 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/projects/strava-light/</guid>
+      <description>An Angular/Go-clone of the popular fitness-app Strava to analyze fitness activities</description>
     </item>
     
     <item>

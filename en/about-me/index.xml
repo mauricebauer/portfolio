@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Maurice Bauer</title>
+    <link>https://mauricebauer.de/en/about-me/</link>
+    <description>Recent content in About me on Maurice Bauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Dec 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://mauricebauer.de/en/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business career</title>
+      <link>https://mauricebauer.de/en/about-me/career/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/about-me/career/</guid>
+      <description>My professional career started very early with a mini-job in my parents&#39; company. However, my career only really began with my first full-time job, the corporate university studies with an industrial company.
+ Mini-job in my parents&#39; company (2015-Today)
+Since I started early to support my parents in their service business, the opportunity arose to earn a little extra pocket money. This first work experience combined different aspects of a job profile for me.</description>
+    </item>
+    
+    <item>
+      <title>School career</title>
+      <link>https://mauricebauer.de/en/about-me/school/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/about-me/school/</guid>
+      <description>Here I describe my school career. Of course, learning doesn&amp;rsquo;t end for me after successfully visiting the three schools. My bachelor degree followed after my high school graduation at the Gewerbliche Schule in Künzelsau.
+ Elementary School in Niedernhall (2005-2009)
+I went to the elementary school in my home town Niedernhall. This prepared me for attending a high school. High school Ganerben Gymnasium Künzelsau (2009-2014)
+I went to the Ganerben Gymnasium from the fifth to the ninth grade.</description>
+    </item>
+    
+    <item>
+      <title>What else I am doing</title>
+      <link>https://mauricebauer.de/en/about-me/what-else/</link>
+      <pubDate>Wed, 23 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/about-me/what-else/</guid>
+      <description>Life is not only about work. Besides my passion for software development, I also follow other interests:
+ 🏃‍♂️ Running
+I like to go running regularly and also cycling from time to time. My hometown offers beautiful biking and walking trails in the valley to pursue these sports. The annual running event in our valley has already made it possible for me to participate in many 10km races and a half marathon.</description>
+    </item>
+    
+  </channel>
+</rss>

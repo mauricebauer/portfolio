@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on Maurice Bauer</title>
+    <link>https://mauricebauer.de/en/tags/django/</link>
+    <description>Recent content in Django on Maurice Bauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 14 Sep 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://mauricebauer.de/en/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAC Registration</title>
+      <link>https://mauricebauer.de/en/projects/nac-registration/</link>
+      <pubDate>Mon, 14 Sep 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/projects/nac-registration/</guid>
+      <description>A registration portal to register worship attendees during the corona-pandemic. Developed using Python 3 (Django 3) and Bootstrap 5</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,54 @@
     <title>Maurice Bauer</title>
     <link>https://mauricebauer.de/</link>
     <description>Recent content on Maurice Bauer</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mauricebauer.de/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Dec 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://mauricebauer.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berufliche Laufbahn</title>
+      <link>https://mauricebauer.de/about-me/career/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/about-me/career/</guid>
+      <description>Meine berufliche Laufbahn startete bereits sehr früh mit einem Minijob im Unternehmen meiner Eltern. Jedoch begann meine Karriere erst so richtig mit meinem ersten Vollzeitberuf, dem dualen Studium bei einem Industrieunternehmen.
+ Minijob im Unternehmen meiner Eltern (2015-Heute)
+Da ich bereits früh anfing meine Eltern in ihrem handwerklichen Dienstleistungsbetrieb zu unterstützen, ergab sich die Möglichkeit, ein kleines Taschengeld hinzuzuverdienen. Diese erste Berufserfahrung kombinierte für mich verschiedene Aspekte eines Berufbilds. Ich habe zunächst die Möglichkeit im direkten Kundenkontakt gemeinsame Lösungen für eine intelligente Gebäudeautomatisierung zu planen und auch zu programmieren.</description>
+    </item>
+    
+    <item>
+      <title>Schulische Laufbahn</title>
+      <link>https://mauricebauer.de/about-me/school/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/about-me/school/</guid>
+      <description>Hier beschreibe ich meine schulische Laufbahn. Nach dem erfolgreichen Besuch der drei Schulen endet das Lernen für mich selbstverständlich nicht. Das Bachelorstudium folgte nämlich nach dem Abitur an der Gewerblichen Schule in Künzelsau.
+ Grundschule Bildungszentrum Niedernhall (2005-2009)
+Ich besuchte die Grundschule in meiner Heimat Niedernhall. Diese bereitete mich darauf vor ein Gymnasium zu besuchen. Ganerben Gymnasium Künzelsau (2009-2014)
+Das Ganerben Gymnasium besuchte ich von der fünften bis in die neunte Klasse.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://mauricebauer.de/contact/</link>
+      <pubDate>Wed, 23 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/contact/</guid>
+      <description>Hi, ich freue mich mit Ihnen Kontakt aufnehmen zu können. Sie haben folgende Möglichkeiten mich zu erreichen:
+ E-Mail: info (-at-) mauricebauer.de
+Wird an meine tatsächliche E-Mail-Adresse weitergeleitet. Instagram: Auch Instagram erlaubt persönliche Nachrichten über das Profil XING: Persönliche Nachricht auf meinem XING-Profil Threema: Kontakt zu Threema hinzufügen  Für vertrauliche Informationen biete ich zusätzlich die Möglichkeit an verschlüsselt zu kommunizieren. Kommen Sie hierfür einfach über eine der oben genannten Möglichkeiten oder persönlich auf mich zu.</description>
+    </item>
+    
+    <item>
+      <title>Was ich sonst so mache</title>
+      <link>https://mauricebauer.de/about-me/what-else/</link>
+      <pubDate>Wed, 23 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/about-me/what-else/</guid>
+      <description>Das Leben besteht nicht nur aus Arbeit. Neben meiner Passion für die Softwareentwicklung gehe ich auch anderen Interessen nach:
+ 🏃‍♂️ Laufsport
+Ich gehe gerne regelmäßig Joggen und auch gelegentlich Radfahren. Meine Heimat bietet im Tal wunderschöne Rad- und Gehwege, um diesen Sportarten nachgehen zu können. Die jährliche Laufsportveranstaltung im unserem Tal ermöglichte mir bereits die Teilnahme in vielzähligen 10km-Läufen und einem Halbmarathon. ⛪ Kirche
+Von Kind auf bin ich Christ und besuche auch gerne regelmäßig die Gottesdienste in unserer Gemeinde.</description>
+    </item>
+    
     <item>
       <title>Impressum</title>
       <link>https://mauricebauer.de/legal-disclosure/</link>
@@ -17,6 +64,42 @@ Criesbacher Straße 1
 info (-at-) mauricebauer.de
 Disclaimer - rechtliche Hinweise Auskunfts- und Widerrufsrecht Sie haben jederzeit das Recht, sich unentgeltlich und unverzüglich über die zu Ihrer Person erhobenen Daten zu erkundigen. Ebenfalls können Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen persönlichen Daten mit Wirkung für die Zukunft widerrufen. Hierfür wenden Sie sich bitte an den im Impressum angegebenen Diensteanbieter.
 Datenschutz (allgemein) Beim Zugriff auf unsere Webseite werden automatisch allgemeine Informationen (sog.</description>
+    </item>
+    
+    <item>
+      <title>mauricebauer.de</title>
+      <link>https://mauricebauer.de/projects/mauricebauer/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/projects/mauricebauer/</guid>
+      <description>Eine Portfolio-Webseite, um mich vorzustellen und meine Projekte zu zeigen</description>
+    </item>
+    
+    <item>
+      <title>NAK Anmeldung</title>
+      <link>https://mauricebauer.de/projects/nac-registration/</link>
+      <pubDate>Mon, 14 Sep 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/projects/nac-registration/</guid>
+      <description>Ein Anmeldeportal zur Registrierung von Gottesdienstteilnehmern während der Corona-Pandemie. Entwickelt mit Python 3 (Django 3) und Bootstrap 5</description>
+    </item>
+    
+    <item>
+      <title>NoriNori Solver</title>
+      <link>https://mauricebauer.de/projects/norinori/</link>
+      <pubDate>Sun, 19 Apr 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/projects/norinori/</guid>
+      <description>Eine JavaFX-Anwendung, um NoriNori-Rätsel im JSON-Format mithilfe von Backtracking zu lösen</description>
+    </item>
+    
+    <item>
+      <title>Strava Light</title>
+      <link>https://mauricebauer.de/projects/strava-light/</link>
+      <pubDate>Sun, 12 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/projects/strava-light/</guid>
+      <description>Ein Angular/Go-Klon der berühmten Fitness-App Strava zur Auswertung von sportlichen Aktivitäten</description>
     </item>
     
     <item>

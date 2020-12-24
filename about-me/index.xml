@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Über mich on Maurice Bauer</title>
+    <link>https://mauricebauer.de/about-me/</link>
+    <description>Recent content in Über mich on Maurice Bauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Dec 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://mauricebauer.de/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berufliche Laufbahn</title>
+      <link>https://mauricebauer.de/about-me/career/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/about-me/career/</guid>
+      <description>Meine berufliche Laufbahn startete bereits sehr früh mit einem Minijob im Unternehmen meiner Eltern. Jedoch begann meine Karriere erst so richtig mit meinem ersten Vollzeitberuf, dem dualen Studium bei einem Industrieunternehmen.
+ Minijob im Unternehmen meiner Eltern (2015-Heute)
+Da ich bereits früh anfing meine Eltern in ihrem handwerklichen Dienstleistungsbetrieb zu unterstützen, ergab sich die Möglichkeit, ein kleines Taschengeld hinzuzuverdienen. Diese erste Berufserfahrung kombinierte für mich verschiedene Aspekte eines Berufbilds. Ich habe zunächst die Möglichkeit im direkten Kundenkontakt gemeinsame Lösungen für eine intelligente Gebäudeautomatisierung zu planen und auch zu programmieren.</description>
+    </item>
+    
+    <item>
+      <title>Schulische Laufbahn</title>
+      <link>https://mauricebauer.de/about-me/school/</link>
+      <pubDate>Tue, 22 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/about-me/school/</guid>
+      <description>Hier beschreibe ich meine schulische Laufbahn. Nach dem erfolgreichen Besuch der drei Schulen endet das Lernen für mich selbstverständlich nicht. Das Bachelorstudium folgte nämlich nach dem Abitur an der Gewerblichen Schule in Künzelsau.
+ Grundschule Bildungszentrum Niedernhall (2005-2009)
+Ich besuchte die Grundschule in meiner Heimat Niedernhall. Diese bereitete mich darauf vor ein Gymnasium zu besuchen. Ganerben Gymnasium Künzelsau (2009-2014)
+Das Ganerben Gymnasium besuchte ich von der fünften bis in die neunte Klasse.</description>
+    </item>
+    
+    <item>
+      <title>Was ich sonst so mache</title>
+      <link>https://mauricebauer.de/about-me/what-else/</link>
+      <pubDate>Wed, 23 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/about-me/what-else/</guid>
+      <description>Das Leben besteht nicht nur aus Arbeit. Neben meiner Passion für die Softwareentwicklung gehe ich auch anderen Interessen nach:
+ 🏃‍♂️ Laufsport
+Ich gehe gerne regelmäßig Joggen und auch gelegentlich Radfahren. Meine Heimat bietet im Tal wunderschöne Rad- und Gehwege, um diesen Sportarten nachgehen zu können. Die jährliche Laufsportveranstaltung im unserem Tal ermöglichte mir bereits die Teilnahme in vielzähligen 10km-Läufen und einem Halbmarathon. ⛪ Kirche
+Von Kind auf bin ich Christ und besuche auch gerne regelmäßig die Gottesdienste in unserer Gemeinde.</description>
+    </item>
+    
+  </channel>
+</rss>

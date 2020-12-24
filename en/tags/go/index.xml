@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Maurice Bauer</title>
+    <link>https://mauricebauer.de/en/tags/go/</link>
+    <description>Recent content in Go on Maurice Bauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Jan 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://mauricebauer.de/en/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strava Light</title>
+      <link>https://mauricebauer.de/en/projects/strava-light/</link>
+      <pubDate>Sun, 12 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://mauricebauer.de/en/projects/strava-light/</guid>
+      <description>An Angular/Go-clone of the popular fitness-app Strava to analyze fitness activities</description>
+    </item>
+    
+  </channel>
+</rss>
