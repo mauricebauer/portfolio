@@ -9,7 +9,7 @@ Criesbacher Straße 1
 (DE) 74676 Niedernhall  
 info (-at-) mauricebauer.de
 
-> **This page is only available in german, because the german law requires this!**
+> **This page is only available in German, because the German law requires this!**
 
 ## Disclaimer - rechtliche Hinweise
 
