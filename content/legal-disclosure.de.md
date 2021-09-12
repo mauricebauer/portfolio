@@ -5,9 +5,8 @@ draft: false
 ---
 
 Maurice Bauer  
-Criesbacher Straße 1  
-74676 Niedernhall  
-info (-at-) mauricebauer.de
+info (-at-) mauricebauer.de  
+(Für die volle Adresse bitte [Kontakt]({{< ref path="/contact" lang="de" >}}) aufnehmen!)
 
 ## Disclaimer - rechtliche Hinweise
 
