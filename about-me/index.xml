@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Über mich on Maurice Bauer</title>
     <link>https://mauricebauer.de/about-me/</link>
@@ -37,8 +37,8 @@ Das Ganerben Gymnasium besuchte ich von der fünften bis in die neunte Klasse.</
       <guid>https://mauricebauer.de/about-me/what-else/</guid>
       <description>Das Leben besteht nicht nur aus Arbeit. Neben meiner Passion für die Softwareentwicklung gehe ich auch anderen Interessen nach:
  🏃‍♂️ Laufsport
-Ich gehe gerne regelmäßig Joggen und auch gelegentlich Radfahren. Meine Heimat bietet im Tal wunderschöne Rad- und Gehwege, um diesen Sportarten nachgehen zu können. Die jährliche Laufsportveranstaltung im unserem Tal ermöglichte mir bereits die Teilnahme in vielzähligen 10km-Läufen und einem Halbmarathon. ⛪ Kirche
-Von Kind auf bin ich Christ und besuche auch gerne regelmäßig die Gottesdienste in unserer Gemeinde.</description>
+Ich gehe gerne regelmäßig Joggen und auch gerne Radfahren. Meine Heimat bietet im Tal wunderschöne Rad- und Gehwege, um diesen Sportarten nachgehen zu können. Die jährliche Laufsportveranstaltung im unserem Tal ermöglichte mir bereits die Teilnahme in vielzähligen 10km-Läufen und einem Halbmarathon. ⛪ Kirche
+Von Kind auf bin ich Christ und besuche auch gerne die Gottesdienste in unserer Gemeinde.</description>
     </item>
     
   </channel>

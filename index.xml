@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Maurice Bauer</title>
     <link>https://mauricebauer.de/</link>
@@ -37,7 +37,7 @@ Das Ganerben Gymnasium besuchte ich von der fünften bis in die neunte Klasse.</
       <guid>https://mauricebauer.de/contact/</guid>
       <description>Hi, ich freue mich mit Ihnen Kontakt aufnehmen zu können. Sie haben folgende Möglichkeiten mich zu erreichen:
  E-Mail: info (-at-) mauricebauer.de
-Wird an meine tatsächliche E-Mail-Adresse weitergeleitet. Instagram: Auch Instagram erlaubt persönliche Nachrichten über das Profil XING: Persönliche Nachricht auf meinem XING-Profil Threema: Kontakt zu Threema hinzufügen  Für vertrauliche Informationen biete ich zusätzlich die Möglichkeit an verschlüsselt zu kommunizieren. Kommen Sie hierfür einfach über eine der oben genannten Möglichkeiten oder persönlich auf mich zu.</description>
+Wird an meine tatsächliche E-Mail-Adresse weitergeleitet. XING: Persönliche Nachricht auf meinem XING-Profil Threema: Kontakt zu Threema hinzufügen  Für vertrauliche Informationen biete ich zusätzlich die Möglichkeit an verschlüsselt zu kommunizieren. Kommen Sie hierfür einfach über eine der oben genannten Möglichkeiten oder persönlich auf mich zu.</description>
     </item>
     
     <item>
@@ -48,8 +48,8 @@ Wird an meine tatsächliche E-Mail-Adresse weitergeleitet. Instagram: Auch Insta
       <guid>https://mauricebauer.de/about-me/what-else/</guid>
       <description>Das Leben besteht nicht nur aus Arbeit. Neben meiner Passion für die Softwareentwicklung gehe ich auch anderen Interessen nach:
  🏃‍♂️ Laufsport
-Ich gehe gerne regelmäßig Joggen und auch gelegentlich Radfahren. Meine Heimat bietet im Tal wunderschöne Rad- und Gehwege, um diesen Sportarten nachgehen zu können. Die jährliche Laufsportveranstaltung im unserem Tal ermöglichte mir bereits die Teilnahme in vielzähligen 10km-Läufen und einem Halbmarathon. ⛪ Kirche
-Von Kind auf bin ich Christ und besuche auch gerne regelmäßig die Gottesdienste in unserer Gemeinde.</description>
+Ich gehe gerne regelmäßig Joggen und auch gerne Radfahren. Meine Heimat bietet im Tal wunderschöne Rad- und Gehwege, um diesen Sportarten nachgehen zu können. Die jährliche Laufsportveranstaltung im unserem Tal ermöglichte mir bereits die Teilnahme in vielzähligen 10km-Läufen und einem Halbmarathon. ⛪ Kirche
+Von Kind auf bin ich Christ und besuche auch gerne die Gottesdienste in unserer Gemeinde.</description>
     </item>
     
     <item>
@@ -102,14 +102,6 @@ Datenschutz (allgemein) Beim Zugriff auf unsere Webseite werden automatisch allg
       <description>Ein Angular/Go-Klon der berühmten Fitness-App Strava zur Auswertung von sportlichen Aktivitäten</description>
     </item>
     
-    <item>
-      <title>Suche</title>
-      <link>https://mauricebauer.de/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mauricebauer.de/search/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

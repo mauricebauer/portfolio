@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About me on Maurice Bauer</title>
     <link>https://mauricebauer.de/en/about-me/</link>
@@ -37,7 +37,7 @@ I went to the Ganerben Gymnasium from the fifth to the ninth grade.</description
       <guid>https://mauricebauer.de/en/about-me/what-else/</guid>
       <description>Life is not only about work. Besides my passion for software development, I also follow other interests:
  🏃‍♂️ Running
-I like to go running regularly and also cycling from time to time. My hometown offers beautiful biking and walking trails in the valley to pursue these sports. The annual running event in our valley has already made it possible for me to participate in many 10km races and a half marathon.</description>
+I like to go running regularly and also cycling. My hometown offers beautiful biking and walking trails in the valley to pursue these sports. The annual running event in our valley has already made it possible for me to participate in many 10km races and a half marathon. ⛪ Church</description>
     </item>
     
   </channel>
