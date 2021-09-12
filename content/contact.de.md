@@ -8,7 +8,6 @@ Hi, ich freue mich mit Ihnen Kontakt aufnehmen zu können. Sie haben folgende M�
 
 - **E-Mail**: info (-at-) mauricebauer.de  
   Wird an meine tatsächliche E-Mail-Adresse weitergeleitet.
-- **Instagram**: Auch Instagram erlaubt persönliche Nachrichten über das [Profil](https://www.instagram.com/mauricepbauer)
 - **XING**: Persönliche Nachricht auf meinem [XING-Profil](https://www.xing.com/profile/Maurice_Bauer7)
 - **Threema**: Kontakt zu Threema [hinzufügen](https://threema.id/XW72EK4D)
 
