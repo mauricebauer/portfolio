@@ -7,11 +7,11 @@ draft: false
 Life is not only about work. Besides my passion for software development, I also follow other interests:
 
 - 🏃‍♂️ **Running**  
-  I like to go running regularly and also cycling from time to time. My hometown offers beautiful biking and walking trails in the valley to pursue these sports. The annual running event in our valley has already made it possible for me to participate in many 10km races and a half marathon.
+  I like to go running regularly and also cycling. My hometown offers beautiful biking and walking trails in the valley to pursue these sports. The annual running event in our valley has already made it possible for me to participate in many 10km races and a half marathon.
 - ⛪ **Church**  
-  I have been a Christian since I was a child and I like to attend the divine services in our congregation on a regular basis. Of course, everyone is invited to join us.
+  I have been a Christian since I was a child and I like to attend the divine services in our congregation. Of course, everyone is invited to join us.
 - 🎼 **Singing**  
-  In a church there is usually a choir, logical so far. Accordingly, it was also obvious to me that I would sing there one day. Today, I especially enjoy singing in different choirs, as it is a nice way to practice a passion in a group.
+  In a church there is usually a choir, logical so far. Accordingly, it was also obvious to me that I would sing there one day. Today, I especially enjoy singing in choirs, as it is a nice way to practice a passion in a group.
 - ✔️ **Productivity**  
   To-do lists, calendars, _kanban_-boards and digitalization are stressful and a nightmare for many people. I am passionate about making my work and personal life as efficient as possible to make the most of the time available.
 - 🌶️ **Eating spicy food**  
