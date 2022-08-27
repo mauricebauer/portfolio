@@ -15,7 +15,7 @@ languages:
     dateFormat: "02.01.2006"
     profileMode:
       enabled: true
-      subtitle: "Willkommen auf meiner Webseite 👋"
+      subtitle: "Willkommen auf meiner Webseite"
       imageUrl: "/img/me.jpg"
       imageTitle: "Ein Bild von mir"
       imageWidth: 200
@@ -41,7 +41,7 @@ languages:
     weight: 2
     profileMode:
       enabled: true
-      subtitle: "Welcome to my website 👋"
+      subtitle: "Welcome to my website"
       imageUrl: "/img/me.jpg"
       imageTitle: "A picture of me"
       imageWidth: 200
