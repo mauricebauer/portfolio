@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://mauricebauer.de/de/sitemap.xml</loc>
-    
-      <lastmod>2021-09-12T11:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://mauricebauer.de/en/sitemap.xml</loc>
-    
-      <lastmod>2021-09-12T11:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://mauricebauer.de/categories/</loc></url><url><loc>https://mauricebauer.de/</loc></url><url><loc>https://mauricebauer.de/tags/</loc></url></urlset>
