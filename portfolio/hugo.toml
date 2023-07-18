@@ -1,0 +1,25 @@
+baseURL = "https://mauricebauer.de"
+defaultContentLanguage = "de"
+languageCode = "de"
+
+title = "Maurice Bauer"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[params]
+  footer = "Maurice Bauer"
+  description = "Embedded Software Developer"
+  avatarURL = "/images/me.jpg"
+  AvatarAltText = "Avatar"
+  avatarSize = "size-m"
+  socialIcons = [
+    {name = "linkedin", url = "https://www.linkedin.com/in/maurice-bauer-660337263"},
+    {name = "xing", url = "https://www.xing.com/profile/Maurice_Bauer7"},
+    {name = "instagram", url = "https://www.instagram.com/mauricepbauer/"},
+    {name = "github", url = "https://github.com/mauricebauer"},
+    {name = "email", url = "mailto:info@mauricebauer.de"}
+  ]
+  metaKeywords = ["blog", "portfolio", "developer"]

@@ -3,9 +3,7 @@
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/mauricebauer/portfolio/Hugo%20CI/master?label=Pipeline&logo=GitHub)
 ![GitHub deployments](https://img.shields.io/github/deployments/mauricebauer/portfolio/github-pages?label=Deployment&logo=Github)
 
-This is my portfolio website to showcase some of my projects and to provide information about me. This project uses the static page builder [Hugo](https://gohugo.io/) in combination with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod)-Theme and follows the [Git-Flow](https://www.atlassian.com/de/git/tutorials/comparing-workflows/gitflow-workflow).
-
-![Website](static/img/portfolio.png)
+This is my portfolio website to provide information about me. This project uses the static page builder [Hugo](https://gohugo.io/) and follows the [Git-Flow](https://www.atlassian.com/de/git/tutorials/comparing-workflows/gitflow-workflow).
 
 ## Contribution
 
