@@ -16,8 +16,8 @@ If you find a mistake on the page, please let me know either via e-mail or creat
 git submodule update --init --recursive
 git submodule update --remote --merge
 
-# Start live server with "development"-environment
-hugo server -D
+# Start live server
+hugo server --source portfolio --buildDrafts
 ```
 
 ## Build production version
@@ -28,5 +28,5 @@ git submodule update --init --recursive
 git submodule update --remote --merge
 
 # Build production-ready minified version of the website
-hugo --minify
+hugo --source portfolio --minify
 ```
